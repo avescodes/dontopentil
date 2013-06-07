@@ -1,0 +1,2 @@
+class GiftsRepository
+end
